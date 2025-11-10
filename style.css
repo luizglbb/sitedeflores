@@ -90,7 +90,7 @@ card:hover {
 
 /* Imagens dentro do card */
 card img {
-  width: 80%;
+  width: 30%;
   border-radius: 10px;
   margin-bottom: 10px;
 }
@@ -115,3 +115,4 @@ h2 {
     font-style: italic;
     color: #f77a28;
 }
+
